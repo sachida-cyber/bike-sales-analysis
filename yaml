@@ -1,0 +1,11 @@
+
+---
+
+### 4. GitHub Par Upload Karna
+```bash
+git init
+git add .
+git commit -m "First Cisco Bike Sales Analysis Project"
+git branch -M main
+git remote add origin https://github.com/username/bike-sales-analysis.git
+git push -u origin main
