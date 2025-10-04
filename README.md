@@ -1,4 +1,4 @@
-# Bike Sales Analysis 🚲📊
+# Bike Sales Analysis 
 
 ## About
 This project analyzes **Bike Sales Data (2021 & 2022)** provided in the Cisco Data Analytics course.  
